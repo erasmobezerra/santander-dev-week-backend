@@ -7,6 +7,7 @@ Este projeto faz parte da Semana Dev Week, trilha Fullstack Developer. É fruto 
 Um muito obrigado aos professores Guilherme Revoredo e Roberto Junior pela ótima didática! Simbora codar muito nesta semana :)
 
 Instrutor Front End => Guilherme Revoredo (https://www.linkedin.com/in/guilherme-revoredo-021b3215b/)
+
 Instrutor Back End => Roberto Júnior (https://www.linkedin.com/in/roberto-junior-584872b5/)
 
 
