@@ -20,4 +20,8 @@ Aula 02: Criando projeto base
 
 Aula 03: Criando as primeiras APIs       
 
-Aula 04: Aplicando validação de dados 
+Aula 04: Aplicando validação de dados
+
+Aula 05: Configurando banco de dados
+
+Aula 06: Criando camada service e exceptions handlers
