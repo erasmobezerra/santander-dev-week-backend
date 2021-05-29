@@ -11,7 +11,7 @@ public class Stock {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     @Column(name = "id")
-    private Long ig;
+    private Long id;
 
     @Column(name = "name")
     private String name;
@@ -25,12 +25,12 @@ public class Stock {
     @Column(name = "date")
     private LocalDate date;
 
-    public Long getIg() {
-        return ig;
+    public Long getId() {
+        return id;
     }
 
-    public void setIg(Long ig) {
-        this.ig = ig;
+    public void setId(Long id) {
+        this.id = id;
     }
 
     public String getName() {
