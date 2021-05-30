@@ -9,7 +9,7 @@ import java.time.LocalDate;
 import java.util.Optional;
 
 @Repository
-public interface StockRepository extends JpaRepository<Stock, Long > {
+public interface StockRepository extends JpaRepository<Stock, Long> {
 
     Optional<Stock> findByNameAndDate(String name, LocalDate date);
 
