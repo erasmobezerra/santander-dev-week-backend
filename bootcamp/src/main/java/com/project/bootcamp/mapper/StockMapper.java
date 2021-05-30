@@ -22,11 +22,11 @@ public class StockMapper {
 
     public StockDTO toDto(Stock stock) {
         StockDTO dto = new StockDTO();
-        dto.setId(dto.getId());
-        dto.setName(dto.getName());
-        dto.setPrice(dto.getPrice());
-        dto.setVariation(dto.getVariation());
-        dto.setDate(dto.getDate());
+        dto.setId(stock.getId());
+        dto.setName(stock.getName());
+        dto.setPrice(stock.getPrice());
+        dto.setVariation(stock.getVariation());
+        dto.setDate(stock.getDate());
         return dto;
     }
 
