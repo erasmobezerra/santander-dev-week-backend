@@ -10,6 +10,9 @@ Um muito obrigado aos professores Guilherme Revoredo e Roberto Junior pela ótim
 
 *Instrutor Back End => Roberto Júnior (https://www.linkedin.com/in/roberto-junior-584872b5/)*
 
+Veja aqui como ficou o projeto!
+https://tela-cotacoes-santander.herokuapp.com/bootcamp/swagger-ui.html
+
 ======================================================
 
 Coteúdo da Trilha Full Stack Developer:
@@ -25,3 +28,5 @@ Aula 04: Aplicando validação de dados
 Aula 05: Configurando banco de dados
 
 Aula 06: Criando camada service e exceptions handlers
+
+Aula 07: Publicando o backend na nuvem
