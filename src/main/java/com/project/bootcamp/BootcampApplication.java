@@ -3,8 +3,10 @@ package com.project.bootcamp;
 import io.swagger.v3.oas.models.OpenAPI;
 import io.swagger.v3.oas.models.info.Info;
 import io.swagger.v3.oas.models.info.License;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication
 public class BootcampApplication {
@@ -13,10 +15,11 @@ public class BootcampApplication {
 		SpringApplication.run(BootcampApplication.class, args);
 	}
 
-	public OpenAPI customOpenAPI(){
+	@Bean
+	public OpenAPI customOpenAPI(@Value("${application.description}") String description){
 		return new OpenAPI().info(new Info()
-				.title("Projeto criado para o bootcamp DIO - Santander")
-				.version("1.0")
+				.title(description)
+				.version("2.0")
 				.termsOfService("http://swagger.io/terms")
 				.license(new License().name("Apache 2.0").url("http://springdoc.org")));
 	}
