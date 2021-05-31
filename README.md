@@ -1,10 +1,8 @@
-# Criando um Sistema de Compra e Venda de Ações - Santander
+# Criando uma Tela de Cotações / Backend
 
-## Projeto em Angular + Java, desenvolvido durante a Santander Dev Week (24 a 28/05/21), tem como obejtivo desenvolver um Sistema de Compra e Venda de Ações.
+Este projeto foi desenvolvido durante a Santander Dev Week, um aquecimento para o bootcamp DIO - Santander
 
-Este projeto faz parte da Semana Dev Week, trilha Fullstack Developer. É fruto da parceria entre Santander e Digital Innovation One Inc.! Obrigado por essa grande oportunidade de crescimento e aprendizado! 
-
-Um muito obrigado aos professores Guilherme Revoredo e Roberto Junior pela ótima didática! Simbora codar muito nesta semana :)
+Muito grato aos aos professores Guilherme Revoredo e Roberto Junior pela ótima didática! Simbora codar muito nesta semana :)
 
 *Instrutor Front End => Guilherme Revoredo (https://www.linkedin.com/in/guilherme-revoredo-021b3215b/)*
 
@@ -17,7 +15,7 @@ https://tela-cotacoes-santander.herokuapp.com/bootcamp/swagger-ui.html
 
 Coteúdo da Trilha Full Stack Developer:
 
-Aula 01: Configurando ambiente - Frontend e Backend
+Aula 01: Configurando ambiente 
 
 Aula 02: Criando projeto base
 
