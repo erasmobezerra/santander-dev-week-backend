@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido durante a Santander Dev Week (24 a 30/06/21), um aquecimento para o bootcamp DIO - Santander. 
 
-Trata-se de um API construída com as tecnologias Java openSDK 11 (LTS) / JPA / Hibernate / JDBC / Docker / Postgres.
+Trata-se de uma API construída com as tecnologias Java openSDK 11 (LTS) / JPA / Hibernate / JDBC / Docker / Postgres.
 
 Muito grato ao professor Roberto Junior pela ótima didática!
 
