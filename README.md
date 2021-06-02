@@ -1,15 +1,18 @@
 # Criando uma API de Tela de Cotações / Backend
 
-Este projeto foi desenvolvido durante a Santander Dev Week, um aquecimento para o bootcamp DIO - Santander
+Este projeto foi desenvolvido durante a Santander Dev Week (24 a 30/06/21), um aquecimento para o bootcamp DIO - Santander. 
 
-Muito grato aos aos professores Guilherme Revoredo e Roberto Junior pela ótima didática! Simbora codar muito nesta semana :)
+Trata-se de um API construída com as tecnologias Java openSDK 11 (LTS) / JPA / Hibernate / JDBC / Docker / Postgres.
 
-*Instrutor Front End => Guilherme Revoredo (https://www.linkedin.com/in/guilherme-revoredo-021b3215b/)*
+Muito grato ao professor Roberto Junior pela ótima didática!
 
-*Instrutor Back End => Roberto Júnior (https://www.linkedin.com/in/roberto-junior-584872b5/)*
+*Linkedin de Roberto Júnior (https://www.linkedin.com/in/roberto-junior-584872b5/)*
 
-### Veja aqui como ficou o projeto! 
+### Veja aqui como ficou o projeto no heroku! 
 https://tela-cotacoes-santander.herokuapp.com/bootcamp/swagger-ui.html
+
+### Integração com o Frontend:
+https://erasmo-ads.github.io/santander-dev-week-frontend/
 
 ======================================================
 
