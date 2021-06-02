@@ -1,4 +1,4 @@
-# Criando uma Tela de Cotações / Backend
+# Criando uma API de Tela de Cotações / Backend
 
 Este projeto foi desenvolvido durante a Santander Dev Week, um aquecimento para o bootcamp DIO - Santander
 
