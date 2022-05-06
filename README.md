@@ -12,7 +12,7 @@ Muito grato ao professor Roberto Junior pela ótima didática!
 https://tela-cotacoes-santander.herokuapp.com/bootcamp/swagger-ui.html
 <br><br>
 ### Integração com o Frontend:
-https://erasmo-ads.github.io/santander-dev-week-frontend/
+https://dio-homebroker-app.herokuapp.com/
 
 ======================================================
 
